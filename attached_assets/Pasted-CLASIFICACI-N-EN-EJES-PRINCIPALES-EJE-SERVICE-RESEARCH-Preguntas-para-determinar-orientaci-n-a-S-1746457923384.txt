@@ -1,0 +1,61 @@
+CLASIFICACIÓN EN EJES PRINCIPALES
+EJE SERVICE ↔ RESEARCH
+
+
+Preguntas para determinar orientación a SERVICIO:
+"Is there already a working product or service?
+>Evaluates whether the subnet has a working product that users can interact with"
+"Does it offer clear, immediate utility?
+>Evaluates whether users or other systems can already benefit from its outputs."
+"Is there a current and obvious revenue model?
+>Assesses if the project is already making money or has a monetization plan."
+"Are there real-world use cases already implemented by third parties?
+>Validates if outside developers or businesses are actually using the subnet."
+"Are there measurable usage or adoption metrics?
+>Seeks evidence that people are actually using the service."
+"Is the documentation geared toward implementation?
+>Checks if the docs are practical and help others build or integrate quickly."
+Total 1 
+
+Preguntas para determinar orientación a RESEARCH:
+"Are they solving deep problems that don’t have clear solutions yet?
+>Evaluates whether the subnet is focused on frontier exploration, not application."
+"Does it conduct open research with public results?
+>Assesses if research findings and developments are shared publicly"
+"Is the team’s background more academic or research-heavy?
+>Assesses if the core contributors have experience in science or R&D."
+"Does the roadmap prioritize breakthroughs over monetization?
+>Looks at whether the focus is progress and discovery, not short-term revenue."
+"Are they working on emerging or experimental technologies?
+>Evaluates how cutting-edge or exploratory the project is."
+Total 2
+Posición sobre el EJE - out of 10 (- SERVICE, + RESEARCH)
+
+EJE INTELLIGENCE ↔ RESOURCE
+
+Preguntas para determinar orientación a INTELLIGENCE:
+"Is its main value in intelligent processing?
+>Evaluates if the computational tasks require significant AI or algorithmic intelligence"
+"Does it take real expertise to join and contribute?
+>Assesses how much skill or knowledge is needed to be useful in the subnet."
+"Is it generating new knowledge or insights?
+>Evaluates whether it creates value by solving or learning, not just running tasks."
+"Does it facilitate emergent intelligence?
+>Evaluates if the subnet enables new forms of intelligence to emerge from interactions"
+"Does the system learn, adapt, or improve over time?
+>Checks for dynamic, self-improving capabilities in the subnet."
+Total
+
+Preguntas para determinar orientación a RESOURCE:
+"Is it resource-efficient relative to its purpose?
+>Evaluates if the subnet uses computational resources efficiently"
+"Does it have high hardware requirements?
+>Assesses the level of hardware needed to participate."
+"Is it more of a utility than a brainy system?
+>Checks whether the subnet is about availability and throughput, not intelligence."
+"Does location matter a lot for performance?
+>Assesses if physical placement (latency, jurisdiction) affects the subnet."
+"Is there a direct correlation between provided resources and rewards?
+>Looks for subnets where more hardware equals more TAO"
+"Is distributed availability or redundancy a core feature?
+>Evaluates if reliability and uptime are one of the subnet’s selling point."

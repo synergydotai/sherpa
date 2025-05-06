@@ -1,0 +1,11 @@
+[project]
+name = "sherpa-bittensor"
+version = "1.0.0"
+description = "A tool for analyzing and visualizing Bittensor subnets across various evaluation criteria"
+requires-python = ">=3.11"
+dependencies = [
+    "numpy==1.26.4",
+    "pandas==2.2.0",
+    "plotly==5.18.0",
+    "streamlit==1.32.2",
+]

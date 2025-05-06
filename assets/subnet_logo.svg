@@ -1,0 +1,37 @@
+<svg width="100" height="100" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="100" height="100" rx="20" fill="#15b07e" opacity="0.1" />
+  
+  <!-- Grid -->
+  <line x1="50" y1="0" x2="50" y2="100" stroke="#15b07e" stroke-width="1" stroke-dasharray="4 4" />
+  <line x1="0" y1="50" x2="100" y2="50" stroke="#15b07e" stroke-width="1" stroke-dasharray="4 4" />
+  
+  <!-- Quadrant labels -->
+  <text x="25" y="25" font-family="Arial" font-size="8" fill="#15b07e" text-anchor="middle">Research &</text>
+  <text x="25" y="35" font-family="Arial" font-size="8" fill="#15b07e" text-anchor="middle">Intelligence</text>
+  
+  <text x="75" y="25" font-family="Arial" font-size="8" fill="#15b07e" text-anchor="middle">Service &</text>
+  <text x="75" y="35" font-family="Arial" font-size="8" fill="#15b07e" text-anchor="middle">Intelligence</text>
+  
+  <text x="25" y="75" font-family="Arial" font-size="8" fill="#15b07e" text-anchor="middle">Research &</text>
+  <text x="25" y="85" font-family="Arial" font-size="8" fill="#15b07e" text-anchor="middle">Resource</text>
+  
+  <text x="75" y="75" font-family="Arial" font-size="8" fill="#15b07e" text-anchor="middle">Service &</text>
+  <text x="75" y="85" font-family="Arial" font-size="8" fill="#15b07e" text-anchor="middle">Resource</text>
+  
+  <!-- Nodes -->
+  <circle cx="65" cy="30" r="6" fill="#15b07e" opacity="0.8" />
+  <circle cx="35" cy="25" r="5" fill="#15b07e" opacity="0.7" />
+  <circle cx="75" cy="60" r="4" fill="#15b07e" opacity="0.6" />
+  <circle cx="30" cy="70" r="3" fill="#15b07e" opacity="0.5" />
+  
+  <!-- Connecting lines -->
+  <line x1="65" y1="30" x2="35" y2="25" stroke="#15b07e" stroke-width="1" />
+  <line x1="65" y1="30" x2="75" y2="60" stroke="#15b07e" stroke-width="1" />
+  <line x1="35" y1="25" x2="30" y2="70" stroke="#15b07e" stroke-width="1" />
+  <line x1="75" y1="60" x2="30" y2="70" stroke="#15b07e" stroke-width="1" />
+  
+  <!-- Central logo element -->
+  <circle cx="50" cy="50" r="15" fill="none" stroke="#15b07e" stroke-width="2" />
+  <text x="50" y="54" font-family="Arial" font-size="12" font-weight="bold" fill="#15b07e" text-anchor="middle">BT</text>
+</svg>
